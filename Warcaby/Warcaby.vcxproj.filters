@@ -18,7 +18,7 @@
     <ClCompile Include="Plansza.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="Źródło.cpp">
+    <ClCompile Include="AI.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
