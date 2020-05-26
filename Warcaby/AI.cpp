@@ -95,7 +95,7 @@ int Warcaby::Plansza::evaluate(int czy_bialy)
 							if (pionki[j + kolor][i + move[k]] == kolor * 1 || pionki[j + kolor][i + move[k]] == kolor * 2)
 								if (exist(j - kolor, i - move[k]))
 									if (pionki[j - kolor][i - move[k]] == kolor * -1 || pionki[j - kolor][i - move[k]] == kolor * -2)
-										score += kolor * 2;
+										score += kolor * 3;
 					}
 					
 				
