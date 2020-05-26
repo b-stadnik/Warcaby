@@ -134,6 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Plansza.cpp" />
+    <ClCompile Include="Źródło.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Plansza.h">
